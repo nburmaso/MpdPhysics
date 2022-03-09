@@ -1,0 +1,18 @@
+pro 209 83
+tar 209 83
+
+nev 1000
+imp -15
+
+ecm 9.2
+tim 200 200
+rsd randomnumber
+
+f13
+#f14
+f15
+f16
+f19
+f20
+
+xxx
