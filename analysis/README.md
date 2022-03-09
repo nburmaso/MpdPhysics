@@ -23,4 +23,4 @@ This is a collection of macros used for analysis of photon pairs in MPD
 - `tracks_par_resolution`:
     * `calc_resolution.C`: A macro that can be used to collect track parameters resolution for charged primary particles. Requires reconstructed events stored in trees as input (check `reco` and `conv` for instructions). An example macro for collecting events including additional primary particles can be found in `tree_prim.C`.
     * `draw_resolution.C`: Example macro for drawing parameter resolutions in dependence of ![](https://latex.codecogs.com/svg.image?p_{\mathrm&space;T}).
-    * Contains example outputs for DCA and ![](https://latex.codecogs.com/svg.image?p_{\mathrm&space;T})
+    * Contains example outputs for DCA and ![](https://latex.codecogs.com/svg.image?p_{\mathrm&space;T}).
