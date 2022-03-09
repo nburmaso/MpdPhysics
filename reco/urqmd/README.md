@@ -2,7 +2,9 @@
 
 ### Prerequisites:
 
-Install MpdRoot framework. It can be obtained from the official [website](http://mpd.jinr.ru/howto-install/) of the MPD collaboration.
+1) Install URQMD and run event generation. See guide and examples of macros and inputfiles that can be used to run simulation in `gen/urqmd`.
+
+2) Install MpdRoot framework. It can be obtained from the official [website](http://mpd.jinr.ru/howto-install/) of the MPD collaboration.
 
 ### Step-by-step guide:
 

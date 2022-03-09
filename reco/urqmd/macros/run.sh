@@ -4,7 +4,7 @@ date
 export MPDROOT_DIR="" # path to your mpdroot installation
 source ${MPDROOT_DIR}/mpdroot_config.sh
 export URQMD_DIR="" # path to URQMD-generated events
-export OUTDIR=""    # your output path here: path to directory where results will be stored
+export OUTDIR="" # your output path here: path to directory where results will be stored
 # make a separate directory for each worker
 export S=`printf "%02d" ${SLURM_PROCID}`
 export D=`printf "%04d" $I`
